@@ -1,0 +1,22 @@
+{
+  "name": "2025-be-test-gh-setup",
+  "version": "1.0.0",
+  "description": "test for backend of something",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnfire/2025-be-test-GH-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnfire/2025-be-test-GH-setup/issues"
+  },
+  "homepage": "https://github.com/johnfire/2025-be-test-GH-setup#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
